@@ -1,0 +1,37 @@
+
+
+body{
+    background: rgb(221, 101, 21);
+    color: #023875;
+}
+.container{
+    padding: 30px ;
+  clear: both;
+  font-size: 12px;
+  color: #023875;
+  text-align: right;
+  background: rgb(221, 101, 21);
+  border-top: 8px solid #023875;
+  height: 50px;
+}
+
+#buttons, #gif-view{
+    background-color: #023875; 
+    border: 5px;
+    color:rgb(221, 101, 21);
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    width: 80%;
+   
+}
+
+
